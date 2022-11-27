@@ -7,6 +7,7 @@ export PATH
 #	Description: Install the ShadowsocksR mudbjson server
 #	Version: 1.0.27
 #	Author: 微笑哥爱跑步
+#       微信：15371279098
 #	Blog: neowho.blog.csdn.net
 #github: https://github.com/neowho
 #=================================================
